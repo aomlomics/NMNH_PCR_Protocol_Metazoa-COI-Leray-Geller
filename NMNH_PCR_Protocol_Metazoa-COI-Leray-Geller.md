@@ -60,7 +60,7 @@ pcr_analysis_software: # not provided
 pcr_method_additional: # not provided
 ---
 
-# Protocol Template - PCR
+# NMNH PCR Protocol COI (Leray-Geller)
 
 ## PROTOCOL INFORMATION
 
