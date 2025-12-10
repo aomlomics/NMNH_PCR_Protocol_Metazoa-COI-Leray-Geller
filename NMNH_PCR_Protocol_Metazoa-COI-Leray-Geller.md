@@ -17,7 +17,7 @@ personnel_required: 1
 language: en
 issued: 2025-09-03
 audience: scientists
-publisher: Smithsonian National Museum of Natural History
+publisher: National Museum of Natural History
 hasVersion: 1
 license: CC0 1.0 Universal
 maturity level: mature
