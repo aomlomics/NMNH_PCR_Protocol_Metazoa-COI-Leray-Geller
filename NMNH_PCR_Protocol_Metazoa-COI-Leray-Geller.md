@@ -1,6 +1,6 @@
 ---
 # MIOP terms
-methodology_category: Omics Analysis
+methodology_category: omics analysis
 project: NOAA Ocean Exploration seawater eDNA metabarcoding
 purpose: PCR [OBI:0000415]
 analyses: PCR [OBI:0000415]
