@@ -96,7 +96,8 @@ pcr_method_additional: not provided
 
 | VERSION | RELEASE DATE | DESCRIPTION OF REVISIONS |
 | ------------- | ------------- | ------------- |
-| 1.0 | 2025-09-03 | Initial release |
+| 1.0.0 | 2025-09-03 | Initial release |
+| 1.0.1 | 2025-12-15 | Updated YAML front matter |
 
 ### Acronyms and Abbreviations
 
